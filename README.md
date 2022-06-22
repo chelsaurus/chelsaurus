@@ -2,13 +2,17 @@
 
 <h4 style="padding-bottom:10px;">
   - 🔭 I’m currently working on projects on Javascript and ReactJS
-  <br>
+</h4>
+<h4 style="padding-bottom:10px;">
   - 🌱 I’m currently learning and working my way up to be a Front-End developer
-  <br>
+</h4>
+<h4 style="padding-bottom:10px;">
   - 📫 How to reach me: <a href="mailto:chels.camilla98@gmail.com">chels.camilla98@gmail.com</a>
-  <br>
+</h4>
+<h4 style="padding-bottom:10px;">
   - 😄 Pronouns: She/Her
-  <br>
+</h4>
+<h4 style="padding-bottom:10px;">
   - ⚡ Fun fact: I like to illustrate, crochet and play the piano! 
 </h4>
 
