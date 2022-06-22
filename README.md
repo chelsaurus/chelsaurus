@@ -4,7 +4,7 @@
   - 🔭 I’m currently working on projects on Javascript and ReactJS
 </h4>
 <h4 style="padding-bottom:10px;">
-  - 🌱 I’m currently learning and working my way up to be a Front-End developer
+  - 🌱 I’m currently learning and working my way up to be an aspiring Front-End developer
 </h4>
 <h4 style="padding-bottom:10px;">
   - 📫 How to reach me: <a href="mailto:chels.camilla98@gmail.com">chels.camilla98@gmail.com</a>
