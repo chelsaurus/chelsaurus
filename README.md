@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Chelsaurus' GitHub stats](https://github-readme-stats.vercel.app/api?username=chelsaurus&show_icons=true&theme=radical&hide=contribs&custom_title=Chelsea's<br>Github<br>Stats)
+![Chelsaurus' GitHub stats](https://github-readme-stats.vercel.app/api?username=chelsaurus&show_icons=true&theme=radical&hide=contribs,prs&custom_title=Chelsea's Github Stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chelsaurus&layout=compact&theme=radical)](https://github.com/chelsaurus/github-readme-stats)
