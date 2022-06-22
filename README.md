@@ -1,19 +1,17 @@
-### Hi there 👋
+<h1 align="center">Hi there, Chelsea here! 👋</h1>
 
-<!--
-**chelsaurus/chelsaurus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h4>
+  - 🔭 I’m currently working on Javascript and ReactJS
+  <br>
+  - 🌱 I’m currently learning and working my way up to be a Front-End developer
+  <br>
+  - 📫 How to reach me: chels.camilla98@gmail.com
+  <br>
+  - 😄 Pronouns: She/Her
+  <br>
+  - ⚡ Fun fact: I like to illustrate, crochet and play the piano! 
+</h4>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 ![Chelsaurus' GitHub stats](https://github-readme-stats.vercel.app/api?username=chelsaurus&show_icons=true&theme=radical&line_height=27px)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chelsaurus&theme=radical)](https://github.com/chelsaurus/github-readme-stats)
