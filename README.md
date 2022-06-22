@@ -1,11 +1,11 @@
 <h1 align="center">Hi there, Chelsea here! 👋</h1>
 
-<h4>
-  - 🔭 I’m currently working on Javascript and ReactJS
+<h4 style="padding-bottom:10px;">
+  - 🔭 I’m currently working on projects on Javascript and ReactJS
   <br>
   - 🌱 I’m currently learning and working my way up to be a Front-End developer
   <br>
-  - 📫 How to reach me: chels.camilla98@gmail.com
+  - 📫 How to reach me: <a href="mailto:chels.camilla98@gmail.com">chels.camilla98@gmail.com</a>
   <br>
   - 😄 Pronouns: She/Her
   <br>
